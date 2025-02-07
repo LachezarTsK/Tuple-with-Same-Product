@@ -10,7 +10,7 @@ Explanation for formula (numberOfPairs - 1) * 8 applied to update 'tupleCombinat
 - previousNumberOfCombinations:   (numberOfPairs - 1) * (numberOfPairs - 2) * 4<br/>
 - currentNumberOfCombinations:    numberOfPairs * (numberOfPairs - 1) * 4<br/>
 - updatedNumberOfCombinations:    currentNumberOfCombinations - previousNumberOfCombinations<br/>
-<dd/> numberOfPairs * (numberOfPairs - 1) * 4 - (numberOfPairs - 1) * (numberOfPairs - 2) * 4<br/>
-                                (numberOfPairs - 1) * 4 * (numberOfPairs - (numberOfPairs - 2))<br/>
-                                (numberOfPairs - 1) * 4 * (numberOfPairs - numberOfPairs + 2)<br/>
-                                (numberOfPairs - 1) * 8<br/> 
+                                -numberOfPairs * (numberOfPairs - 1) * 4 - (numberOfPairs - 1) * (numberOfPairs - 2) * 4<br/>
+                                -(numberOfPairs - 1) * 4 * (numberOfPairs - (numberOfPairs - 2))<br/>
+                                -(numberOfPairs - 1) * 4 * (numberOfPairs - numberOfPairs + 2)<br/>
+                                -(numberOfPairs - 1) * 8<br/> 
