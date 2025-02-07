@@ -2,5 +2,6 @@
 Challenge at LeetCode.com. Tags: Hash Table, Math.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-![image](https://github.com/user-attachments/assets/d49e4b85-6c9d-409d-9ece-da4042997c56)
+![image](https://github.com/user-attachments/assets/4427b055-4b13-4ee4-b35b-b79ca7e0fc8a)
+
 
