@@ -3,5 +3,6 @@ Challenge at LeetCode.com. Tags: Hash Table, Math.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![image](https://github.com/user-attachments/assets/b61d1d35-d6bc-4eab-bba4-bcbf441cf352)
+![image](https://github.com/user-attachments/assets/ad4987fa-a779-48e4-a2ae-b8a6b96287ca)
+
 
