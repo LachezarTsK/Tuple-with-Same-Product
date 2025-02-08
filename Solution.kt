@@ -11,7 +11,7 @@ class Solution {
                 val numberOfPairs = valueToNumberOfPairs.getOrDefault(product, 0)
 
                 tupleCombinationsOfSameProduct += numberOfPairs
-                (valueToNumberOfPairs[product]) = numberOfPairs + 1
+                valueToNumberOfPairs[product] = numberOfPairs + 1
             }
         }
         return tupleCombinationsOfSameProduct * 8
